@@ -30,7 +30,7 @@ const restaurants: Restaurant[] = [
     hasMenu: true,
     itemClassifications: ["itemClassification-def", "itemClassification-ghi"],
     licenses: ["license-def", "license-ghi"],
-    name: "Test Restaurant",
+    name: "Other Test Restaurant",
     restaurantInfos: ["restaurantInfo-def", "restaurantInfo-ghi"],
     subCategories: [],
     uuid: "restaurant-def"
