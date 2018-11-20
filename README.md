@@ -1,5 +1,8 @@
 # React Native Elements Avatar Bug
 
+## Install The Packages
+Run `npm install`.
+
 ## Run This App
 Type `npm run ios` or `react-native run-android` to start the app.
 
